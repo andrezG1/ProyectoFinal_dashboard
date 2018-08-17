@@ -1,0 +1,16 @@
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\bin\Debug\Dashboard.xml
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.vbprojAssemblyReference.cache
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.Resources.resources
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.vbproj.GenerateResource.cache
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.vbproj.CoreCompileInputs.cache
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.vbproj.CopyComplete
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.xml
+C:\Users\laguerrero\source\repos\Dashboard\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
